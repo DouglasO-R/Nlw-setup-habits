@@ -50,6 +50,7 @@ Nos links abaixo você encontra o layout do projeto web e também do mobile. Lem
 
 - [Layout Web/Mobile](https://www.figma.com/community/file/1195326661124171197)
 
+[screen-capture.webm](https://user-images.githubusercontent.com/18516809/214693956-2018d2d0-6475-4156-a95d-1812f481134b.webm)
 
 ## :memo: Licença
 
