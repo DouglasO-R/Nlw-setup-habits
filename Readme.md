@@ -42,7 +42,7 @@ Projeto criado no evento Nlw-setup ajudar você a rastrear seus hábitos e melho
 
 O aplicativo apresenta um quadro diário que mostra a frequência dos hábitos praticados, permitindo que você veja sua progresso ao longo do tempo e se motive a seguir em frente.
 
-Para rodar clone o repositório  `git clone https://github.com/DouglasO-R/pomodoro.git`, acesse a pasta do web `cd web`, instale as dependências `yarn`, e rode o app com `yarn dev` 
+Para rodar clone o repositório  `git clone https://github.com/DouglasO-R/Nlw-setup-habits.git`, acesse a pasta do web `cd web`, instale as dependências `yarn`, e rode o app com `yarn dev` 
 
 ## 🔖 Layout
 
